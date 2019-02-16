@@ -1,0 +1,7 @@
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\Day1\calc_homework\Sparta_global_c_sharp_calc\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\Day1\calc_homework\Sparta_global_c_sharp_calc\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\Day1\calc_homework\Sparta_global_c_sharp_calc\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\Day1\calc_homework\Sparta_global_c_sharp_calc\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\Day1\calc_homework\Sparta_global_c_sharp_calc\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\Day1\calc_homework\Sparta_global_c_sharp_calc\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\tech-w99a.LAPTOP-3BLG1NHP\Engineering26\week5\Day1\calc_homework\Sparta_global_c_sharp_calc\calculator\calculator\obj\Debug\calculator.pdb
